@@ -1,1 +1,20 @@
-
+[
+  {
+    "displayName": "First Command",
+    "realName": "first-command",
+    "description": "No description",
+    "author": "No Author"
+  },
+   {
+    "displayName": "Second Command",
+    "realName": "second-command",
+    "description": "No description",
+    "author": "No Author"
+  },
+   {
+    "displayName": "Third Command",
+    "realName": "third-command",
+    "description": "No description",
+    "author": "No Author"
+  }
+]
